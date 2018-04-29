@@ -1,5 +1,5 @@
 body {
-  background-color: #ffffff;
+  background-color: #4E9BB5;
   margin: 0;
 }
 .wrapper {
@@ -15,7 +15,7 @@ body {
 }
 .Logo {
   display: inline-block;
-  font-size: 48px;
+  font-size: 70px;
   padding: 15px 50px;
   text-transform: uppercase;
 }
@@ -35,11 +35,12 @@ body {
 .navigation a {
   color: #fff;
   text-decoration: none;
+  font-size: 20px;
   text-transform: uppercase;
 }
 
 .main {
-  background-color: #F3EFF0;
+  background-color: #4E9BB5;
   float: left;
   min-height: 300PX;
   MARGIN-LEFT: 40PX;
